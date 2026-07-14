@@ -1,2 +1,2 @@
 # linusism-bible
-this is a beta
+this is the official scripture of linusism

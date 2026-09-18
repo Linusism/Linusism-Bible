@@ -1,4 +1,4 @@
-# linusism-bible
+# Linusism-Bible
 This is the official scripture of Linusism.
 Our Website is linusism.neocities.org but we are currently
 allocating to a different site which will take multiple months.
